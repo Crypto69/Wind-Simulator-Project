@@ -82,6 +82,8 @@ usually the positive wire)
 5. Click the start button and minimise the app. you wont need it again. You can leave it up and it will show the speed of the car and the value being sent to the arduino.
 6. Start iRacing and drive. Your fans will spin up learn your top speed self adjust and then settle down.
 
+You can see a video of it in action here: https://youtu.be/xUraMKOlKhc
+
 If you got this far then well done !
 You may want to make your solution look more professional. You can 3D print the laminar flow files, cases and gopro mounts.
 ![3D  Printed Parts](https://github.com/Crypto69/Wind-Simulator-Project/blob/master/Images/3DPrinted.png)
