@@ -36,9 +36,11 @@ I used a design from Thingiverse that I 3D printed
 
 - [ ] Fan Shroud: https://www.thingiverse.com/thing:2884277 or http://www.thingiverse.com/thing:3495351 or 
 http://www.thingiverse.com/thing:408156
+<img src="https://cdn.thingiverse.com/renders/16/db/82/46/86/794530ad7f9c67ba0094978fb779b6fe_preview_featured.jpg" height="200">
 - [ ] Arduino Uno Large Case https://www.thingiverse.com/thing:1097607
+<img src="https://cdn.thingiverse.com/renders/f4/d7/b4/cf/8f/ac-arduino-2_preview_featured.JPG" height="200">
 - [ ] GoPro Mounts for mounting to rig https://www.thingiverse.com/thing:1779794
-
+<img src="https://cdn.thingiverse.com/renders/3a/8d/56/8c/58/6c607542b60d0b6b8ae19e53cb366c09_preview_featured.jpg" height="200">
 ---
 
 #### Instructions
