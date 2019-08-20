@@ -49,8 +49,8 @@ http://www.thingiverse.com/thing:408156
 2. Plug in your arduino uno usb cable into your PC
 3. Download the Fast PWM library, written by Sam Knight here https://github.com/RCS101/PWM
 4. In the Arduino IDE, navigate to Sketch > Include Library > Add .ZIP Library. At the top of the drop down list, select the option to "Add .ZIP Library''. You will be prompted to select the library you would like to add. Navigate to the .zip file file you downloaded in step 3 above. (You can read more about doing this here https://www.arduino.cc/en/guide/libraries
-3. Download the sketch file in the Arduino Sketch Code folder in this git project here: 
-5. Open the sketch file in the Arduino IDE.
+3. Download the sketch file in the Arduino Sketch Code from this project folder https://github.com/Crypto69/Wind-Simulator-Project/tree/master/Arduino%20Sketch%20Code
+5. Open the sketch file you downloaded called WindSimulatorWithPWMH.ino in the Arduino IDE.
 6. Compile the sketch by pressing the tick in the circle button at the top.
 7. Upload the sketch to your arduino my pressing the right arrow in the circle button 
 8. You Arduino should now have the software it needs to drive the PWM PC Fans
