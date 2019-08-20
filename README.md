@@ -79,6 +79,7 @@ usually the positive wire)
 2. This is a .Net application that connects to the iRacing Telemetry output. All this app does is read the speed many times a second and pass a value between 0 and 255 to the arduino. 255 being top speed and 0 being stopped. The software self learns the top speed as your drive the car. So initially the fans may spin quickly for the first lap but will adjust once it works out your speed range.
 3. Install the application by running setup.exe
 4. Run the application. You will be required to select the com port your arduino is running on. You can find this when your run the arduino ide application. On the bottom right it tells you your comm port. You wont need to do this again unless you change the COM port.
+![Wiring Digram](https://github.com/Crypto69/Wind-Simulator-Project/blob/master/Images/Wiring.png)
 5. Click the start button and minimise the app. you wont need it again. You can leave it up and it will show the speed of the car and the value being sent to the arduino.
 6. Start iRacing and drive. Your fans will spin up learn your top speed self adjust and then settle down.
 
@@ -86,7 +87,8 @@ You can see a video of it in action here: https://youtu.be/xUraMKOlKhc
 
 If you got this far then well done !
 You may want to make your solution look more professional. You can 3D print the laminar flow files, cases and gopro mounts.
-![3D  Printed Parts](https://github.com/Crypto69/Wind-Simulator-Project/blob/master/Images/3DPrinted.png)
+![Wind Simulator Application](https://github.com/Crypto69/Wind-Simulator-Project/blob/master/Images/Wind%20Simulator%20Application.png)
+![Wind Simulator Application Serial Port](https://github.com/Crypto69/Wind-Simulator-Project/blob/master/Images/Serial%20Port.png)
 
 The links to the STL files for 3D printing were listed above.
 
