@@ -11,6 +11,9 @@ is required because of the use of PWM controlled fans.
 To use this design you need to adjust the wind output to be directional in order for the effect to be felt.
 I used a design from Thingiverse that I 3D printed
 
+##### Disclaimer! Do this at your own risk. 
+Information in this project is published in good faith and for general information purpose only. I do not make any warranties about the completeness, reliability, and accuracy of this information. Any action you take upon the information you find in this project, is strictly at your own risk. I will not be liable for any losses and/or damages in connection with the use of information within this project. DIY Projects can result in shock or injury. Procede at your own risk!
+ 
 ---
 #### You need the following items to build this project
 
