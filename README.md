@@ -58,13 +58,13 @@ http://www.thingiverse.com/thing:408156
 0. Ensure Arduino and your 12v Power supply are not plugged in at this stage
 1. Detach plug from your 12vDC Power supply. Plug it in and use a voltmeter to find out which end is positive. Be sure not to touch the ends of the exposed wire risking shock or shorting the power supply (Sometimes they have a wire with a white stripe that is 
 usually the positive wire)
-2. Connect the negative end of the DC power supply to the arduino ground pin. (as per wiring diagram)
-3. Connect the positive wire from the power supply to the terminal block. (as per wiring diagram)
-4. Connect the Arduino ground pin next to the power supply negative you just wired to the terminal block (as per wiring diagram)
-5. Connect a wire from pin 3 on the Arduino Uno to the terminal block (as per wiring diagram)
-6. Remove the PWM signal wire (usually blue if colored) from one of the fans and connect it to the other side of the terminal block where pin 3 from the arduino is connected (as per wiring diagram)
-7. Remove the negative wire or ground wire (usually black if colored) on the PWM PC Fan connector and connect this into the terminal black on the opposite side of where you connected the ground/negative from the arduino into the terminal block ((as per wiring diagram)
-8. Remove the positive wire (usually red if colored) on the PWM PC Fan connector and connect this into the terminal black on the opposite side of where you connected the positive from the 12v power supply into the terminal block ((as per wiring diagram)
+2. Connect the negative end of the DC power supply to the arduino ground pin. (as per wiring diagram step 2)
+3. Connect the positive wire from the power supply to the terminal block. (as per wiring diagram step 3)
+4. Connect the Arduino ground pin next to the power supply negative you just wired to the terminal block (as per wiring diagram step 4)
+5. Connect a wire from pin 3 on the Arduino Uno to the terminal block (as per wiring diagram step 5)
+6. Remove the PWM signal wire (usually blue if colored) from one of the fans and connect it to the other side of the terminal block where pin 3 from the arduino is connected (as per wiring diagram  step 6)
+7. Remove the negative wire or ground wire (usually black if colored) on the PWM PC Fan connector and connect this into the terminal black on the opposite side of where you connected the ground/negative from the arduino into the terminal block ((as per wiring diagram  step 7)
+8. Remove the positive wire (usually red if colored) on the PWM PC Fan connector and connect this into the terminal black on the opposite side of where you connected the positive from the 12v power supply into the terminal block ((as per wiring diagram  step 8)
 
 ##### iRacing Wind Simulator software
 1. Download the Wind Simulator software setup file from here:
