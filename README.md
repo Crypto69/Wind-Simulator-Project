@@ -15,6 +15,8 @@ I used a design from Thingiverse that I 3D printed
 #### You need the following items to build this project
 
 1. Arduino Uno https://www.amazon.com/HiLetgo-ATmega328P-Development-Compatible-Microcontroller/dp/B01AR7YJ3O
+<img src="https://images-na.ssl-images-amazon.com/images/I/81yjq1pkiGL._SL1500_.jpg" height="300" width="300">
+
 2. 12v Power Supply of at least 1.5 amps. You can use an old PC power supply but its overkill. https://www.amazon.com/100v-240v-Transformers-Interface-5-5x2-5mm-Suitable/dp/B0793SDTJK
 3. 2x 120mm PWM 4 Pin PC Cooling fans https://www.amazon.com/Bgears-120mm-High-Performance-Technology/dp/B00GX3MAGU/
 4. A terminal block https://www.amazon.com/Morris-22052-20A-Terminal-Block/dp/B005BGC3S0
